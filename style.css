@@ -1,0 +1,63 @@
+/* unvisited link */
+a:link {
+    font-size: large;
+    font-style: normal;
+    padding: 10px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgb(32, 39, 39);
+    border: 2px;
+    border-radius: 2px;
+    margin: 25px;
+    box-shadow: 10px;
+    background-color: rgb(246, 246, 246);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    font-size: large;
+    font-style: normal;
+    padding: 10px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgb(32, 39, 39);
+    border: 2px;
+    border-radius: 2px;
+    margin: 25px;
+    box-shadow: 10px;
+    background-color: rgb(233, 233, 212);
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    font-size: large;
+    font-style: normal;
+    padding: 10px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgb(32, 39, 39);
+    border: 2px;
+    border-radius: 2px;
+    margin: 25px;
+    box-shadow: 10px;
+    background-color: rgb(233, 233, 212);
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    font-size: large;
+    font-style: normal;
+    padding: 10px;
+    border-style: solid;
+    border-color: darkgray;
+    color: rgb(32, 39, 39);
+    border: 2px;
+    border-radius: 2px;
+    margin: 25px;
+    box-shadow: 10px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+  }

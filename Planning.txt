@@ -1,0 +1,1 @@
+get request from source site --> filter for only desired content --> store in personal database --> send email
